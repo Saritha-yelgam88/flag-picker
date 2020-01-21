@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flag-picker/static/css/main.c0f1ef00.chunk.css",
+    "main.js": "/flag-picker/static/js/main.b4916606.chunk.js",
+    "main.js.map": "/flag-picker/static/js/main.b4916606.chunk.js.map",
+    "runtime-main.js": "/flag-picker/static/js/runtime-main.534140b2.js",
+    "runtime-main.js.map": "/flag-picker/static/js/runtime-main.534140b2.js.map",
+    "static/js/2.4a5833c5.chunk.js": "/flag-picker/static/js/2.4a5833c5.chunk.js",
+    "static/js/2.4a5833c5.chunk.js.map": "/flag-picker/static/js/2.4a5833c5.chunk.js.map",
+    "index.html": "/flag-picker/index.html",
+    "precache-manifest.dfbb2ecf38d76a4fd644c2701d17302b.js": "/flag-picker/precache-manifest.dfbb2ecf38d76a4fd644c2701d17302b.js",
+    "service-worker.js": "/flag-picker/service-worker.js",
+    "static/css/main.c0f1ef00.chunk.css.map": "/flag-picker/static/css/main.c0f1ef00.chunk.css.map",
+    "static/js/2.4a5833c5.chunk.js.LICENSE": "/flag-picker/static/js/2.4a5833c5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.534140b2.js",
+    "static/js/2.4a5833c5.chunk.js",
+    "static/css/main.c0f1ef00.chunk.css",
+    "static/js/main.b4916606.chunk.js"
+  ]
+}
